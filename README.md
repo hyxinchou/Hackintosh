@@ -1,4 +1,4 @@
-# Hackintosh
+# Hackintosh for MSI Modern 14
 OpenCore EFI for MSI Modrern 14 A10M
 
 # Specification
