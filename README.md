@@ -12,9 +12,9 @@ OpenCore EFI for MSI Modrern 14 A10M
 | Wireless | Wireless AC 9650 |
 
 # Hackintosh Status
-OS : macOS Monterey v12.3.1
-Bootloader : Opencore v0.8.0
-Everything is working
+- OS : macOS Monterey v12.3.1
+- Bootloader : Opencore v0.8.0
+- Everything is working
 
 # Tips
 - Make sure you have disabled secure boot in bios.
